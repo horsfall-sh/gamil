@@ -1,0 +1,21 @@
+# Credentials and tokens
+.credentials/
+
+# Local data (user-specific)
+gmail.db
+gmail.db-wal
+gmail.db-shm
+sync.log
+trajectory.csv
+urgent.txt
+inbox-summary.md
+weekly-insight.md
+raw_emails.json
+amazon_remaining_ids.json
+.email_refs
+
+# Claude Code local state
+.claude/
+
+# Binary
+analyzer/gmail-analyzer
